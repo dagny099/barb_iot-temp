@@ -1,0 +1,8 @@
+#!/bin/bash
+source $HOME/.profile
+cd $HOME/temp_project
+python3 pyscript_save_db_snapshot.py
+git add ./data/interim/Temperature_data.csv && \
+git add -u && \
+git commit -m “autoCommit_data” && \
+git push heroku master

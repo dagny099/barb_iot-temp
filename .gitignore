@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Text files are stored here --replace this w mysqldup soon
+data/raw/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# Messy project specific folders here:
+old/
+
+

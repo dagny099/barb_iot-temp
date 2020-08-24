@@ -1,0 +1,2 @@
+/bin/bash: /home/binami/temp_project/script_01_mqtt_to_txtfile.sh: No such file or directory
+/home/bitnami/temp_project/script_01_mqtt_to_txtfile.sh: line 13:  9940 Terminated              mosquitto_sub -h $broker -t $subscribe_topic >> $filename
