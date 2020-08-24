@@ -1,37 +1,35 @@
 
 # IMPORT MODULES
+import os
 import pandas as pd
+import numpy as np
 from datetime import datetime as dt
 
-# Function returns a connection
-# def preprocess_data(data,resampleFreq='30S'):
-#     df = pd.DataFrame.from_dict(data).set_index('record_id')
-# 
-#     #Next round of improvements will store these values in the db
-#     # with the correct type, rendering the following 2 lines of code unnecessary:
-#     df['when_day_time']= pd.to_datetime(df['when_day_time'])
-#     df[['tempF','humidity']] = df[['tempF','humidity']].astype('float64')
-# 
-#     # Filter 
-#     whichYr=2020
-#     whichMonth=7
-#     whichDay=27
-#     newDf = df[(df.when_day_time.dt.year>=whichYr) & (df.when_day_time.dt.month==whichMonth)& (df.when_day_time.dt.day>=whichDay)]
-# 
-#     #Pivot & Resample 
-#     return(newDf.pivot(index='when_day_time',columns='sensor_id',values=['tempF','humidity']).resample(resampleFreq).mean())
-    
+# SET DIRECTORIES
+datadir = './data/interim'
+
+# GET DATA:
 # --------------------------------
-# WHILE LOCAL: 
-# 1- READ DATA FROM MySQL DATABASE:
-#data = returnData(dbname='temp_project')
 
-# 2- CONVERT DATA from dictCursor to dataFrame:
-#df = preprocess_data(data)
+# STEP 1- Get a list of pickled files w each day's data:
 
-# ONCE DEPLOYED TO HEROKU
-# 1- Import saved csv to dataframe:
-df = pd.read_csv("./data/interim/Temperature_data.csv", index_col=0, header=[0,1], parse_dates=True)
+pklFiles = []
+[pklFiles.append(filename) for root, dirs, files in os.walk(datadir) for filename in files if filename[-3:] in 'pkl']
+pklFiles.sort()
+
+# STEP 2- Concatenate all the pickled dataframes:
+
+temp_data=pd.read_pickle(datadir+'/'+pklFiles.pop(0))
+
+for filename in pklFiles:
+    tmp=pd.read_pickle(datadir+'/'+filename)
+    temp_data = pd.concat([temp_data,tmp])
+
+# STEP 3- FILTER DATA HERE
+
+df = temp_data
+df = df.loc[(df.index.month==8) & (df.index.day > 22)]
+
 
 # --------------------------------
 # DEFINE COLORS & LABELS FOR GRAPHING SENSOR DATA
@@ -40,22 +38,22 @@ sensors = {'dht02': {'color': '#F44DDB', 'label': "Upstairs: Alex's old room"},
             'dht01': {'color': '#0E3DEC', 'label': "Downstairs: Barb office"},
             'dht03': {'color': '#25E4F0', 'label': "Downstairs: Dining area"}}
                             
-# IMPORT MORE MODULES
+# IMPORT DASH MODULES
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
-# Try to make interactive slider
+# IMPORT VISUALIZATION MODULES
 import plotly.graph_objs as go
 from plotly.offline import init_notebook_mode, iplot
-# init_notebook_mode(connected=True)
 import chart_studio.plotly as py
 import plotly
 
 # INITIALIZE DASH APP
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
+# --------------------------------
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
