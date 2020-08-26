@@ -5,6 +5,7 @@ if [ $# -lt 2 ]; then
   dbname='temp_project'
   configfile="${HOME}/keys/configMysql.cnf"
   pathnameDest="${HOME}/temp_project/data/interim/"
+  deployPath="${HOME}/temp_project/barb_iot_temp"
 fi
 
 if [ $# -lt 1 ]; then
@@ -26,3 +27,11 @@ echo "SELECT COUNT(*) FROM sensor_readings WHERE when_day_time LIKE '"$thisdate"
 #2- From python, pickle the TSV file and delete it
 python3 $HOME/temp_project/pyscript_pickle_tsv.py "$thisdate" "$filenameSrc"  "$filenameDest"
 rm $filenameSrc
+
+#3- Push the Heroku deploy folder
+cd $deployPath
+git add ./data/interim && \
+git add -u && \
+git commit -m "autoCommit_data" && \
+git push heroku master
+cd ..

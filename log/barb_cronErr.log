@@ -943,3 +943,3607 @@ when_day_time
 2020-08-25 13:29:30   NaN  78.8  80.60  84.2      NaN  49.0  48.4  43.8
 2020-08-25 13:30:00   NaN  78.8    NaN  84.2      NaN  49.0   NaN  44.0
 Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+COUNT(*)
+26108
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 13:53:30   NaN  79.16  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:54:00   NaN  78.80  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:54:30   NaN  78.80  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:55:00   NaN  79.52  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:55:30   NaN  79.16  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:56:00   NaN  79.16  80.6  84.2      NaN  49.0  48.2  43.0
+2020-08-25 13:56:30   NaN  78.80  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 13:57:00   NaN  78.80  80.6  84.2      NaN  49.0  48.6  43.0
+2020-08-25 13:57:30   NaN  79.16  80.6  84.2      NaN  49.0  48.2  43.0
+2020-08-25 13:58:00   NaN    NaN   NaN   NaN      NaN   NaN   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+COUNT(*)
+26984
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 14:15:00   NaN  80.24  80.6  84.2      NaN  49.0  48.8  43.0
+2020-08-25 14:15:30   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:16:00   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:16:30   NaN  80.24  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:17:00   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:17:30   NaN  80.24  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:18:00   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:18:30   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:19:00   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+2020-08-25 14:19:30   NaN  80.60  80.6  84.2      NaN  49.0  49.0  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+/home/bitnami/temp_project/script_00_save_1day_db2tsv_pkl.sh: line 31: cd: barb_iot_temp: No such file or directory
+fatal: not a git repository (or any of the parent directories): .git
+COUNT(*)
+27781
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 14:35:30   NaN  80.24  80.6  84.2      NaN  49.0  47.8  43.0
+2020-08-25 14:36:00   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:36:30   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:37:00   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:37:30   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:38:00   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:38:30   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:39:00   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:39:30   NaN  80.60  80.6  84.2      NaN  49.0  48.0  43.0
+2020-08-25 14:40:00   NaN  80.60   NaN   NaN      NaN  49.0   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+/home/bitnami/temp_project/script_00_save_1day_db2tsv_pkl.sh: line 31: cd: barb_iot_temp: No such file or directory
+fatal: not a git repository (or any of the parent directories): .git
+COUNT(*)
+28578
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 14:55:30   NaN  80.6  80.60  84.20      NaN  49.0  48.2  43.0
+2020-08-25 14:56:00   NaN  80.6  80.60  84.56      NaN  49.0  48.0  43.0
+2020-08-25 14:56:30   NaN  80.6  80.60  84.56      NaN  49.0  48.0  43.0
+2020-08-25 14:57:00   NaN  80.6  80.60  84.20      NaN  49.0  48.0  43.0
+2020-08-25 14:57:30   NaN  80.6  80.60  84.56      NaN  49.0  48.0  43.0
+2020-08-25 14:58:00   NaN  80.6  80.96  84.56      NaN  49.0  48.2  43.0
+2020-08-25 14:58:30   NaN  80.6  80.60  84.56      NaN  49.0  48.0  43.0
+2020-08-25 14:59:00   NaN  80.6  80.60  84.92      NaN  49.0  48.0  43.0
+2020-08-25 14:59:30   NaN  80.6  80.60  86.00      NaN  49.0  48.0  43.0
+2020-08-25 15:00:00   NaN  80.6    NaN  86.00      NaN  49.0   NaN  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+/home/bitnami/temp_project/script_00_save_1day_db2tsv_pkl.sh: line 31: cd: barb_iot_temp: No such file or directory
+fatal: not a git repository (or any of the parent directories): .git
+COUNT(*)
+29344
+                    tempF                    humidity                       
+sensor_id           dht01 dht02 dht03  dht04    dht01 dht02      dht03 dht04
+when_day_time                                                               
+2020-08-25 15:15:30   NaN  80.6  80.6  85.64      NaN  49.0  48.000000  43.0
+2020-08-25 15:16:00   NaN  80.6  80.6  86.00      NaN  49.0  48.000000  43.0
+2020-08-25 15:16:30   NaN  80.6  80.6  86.00      NaN  49.0  50.500000  43.0
+2020-08-25 15:17:00   NaN  80.6   NaN  86.00      NaN  49.0        NaN  43.0
+2020-08-25 15:17:30   NaN  80.6   NaN  86.00      NaN  49.0        NaN  43.0
+2020-08-25 15:18:00   NaN  80.6   NaN  86.00      NaN  49.0        NaN  43.0
+2020-08-25 15:18:30   NaN  80.6   NaN  86.00      NaN  49.0        NaN  43.0
+2020-08-25 15:19:00   NaN  80.6   NaN  86.00      NaN  49.0        NaN  43.0
+2020-08-25 15:19:30   NaN  80.6  80.6  86.00      NaN  49.0  52.333333  43.0
+2020-08-25 15:20:00   NaN   NaN   NaN  86.00      NaN   NaN        NaN  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+/home/bitnami/temp_project/script_00_save_1day_db2tsv_pkl.sh: line 31: cd: barb_iot_temp: No such file or directory
+fatal: not a git repository (or any of the parent directories): .git
+COUNT(*)
+29537
+                    tempF                   humidity                  
+sensor_id           dht01 dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                         
+2020-08-25 15:20:30   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:21:00   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:21:30   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:22:00   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:22:30   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:23:00   NaN  80.6  80.6  86.0      NaN  49.0  49.0  43.0
+2020-08-25 15:23:30   NaN  80.6  80.6  86.0      NaN  49.0  49.6  43.0
+2020-08-25 15:24:00   NaN  80.6  80.6  86.0      NaN  49.0  49.4  43.0
+2020-08-25 15:24:30   NaN  80.6  80.6  86.0      NaN  49.0  49.8  43.0
+2020-08-25 15:25:00   NaN  80.6  80.6  86.0      NaN  49.0  50.0  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 10737a6] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v171        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   dae2c9a..10737a6  master -> master
+COUNT(*)
+30134
+                    tempF                     humidity                   
+sensor_id           dht01  dht02  dht03 dht04    dht01  dht02 dht03 dht04
+when_day_time                                                            
+2020-08-25 15:35:30   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:36:00   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:36:30   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:37:00   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:37:30   NaN  81.05  78.80  86.0      NaN  49.25  51.0  43.0
+2020-08-25 15:38:00   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:38:30   NaN  80.60  79.16  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:39:00   NaN  80.60  79.16  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:39:30   NaN  80.60  78.80  86.0      NaN  49.00  51.0  43.0
+2020-08-25 15:40:00   NaN    NaN    NaN   NaN      NaN    NaN   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 75db3ab] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v172        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   10737a6..75db3ab  master -> master
+COUNT(*)
+30930
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 15:55:00   NaN  80.96  78.8  86.0      NaN  49.2  52.0  43.0
+2020-08-25 15:55:30   NaN  80.96  78.8  86.0      NaN  49.2  51.4  43.0
+2020-08-25 15:56:00   NaN  80.60  78.8  86.0      NaN  49.0  51.0  43.0
+2020-08-25 15:56:30   NaN  80.60  78.8  86.0      NaN  49.0  51.0  43.0
+2020-08-25 15:57:00   NaN  80.60  78.8  86.0      NaN  49.0  51.0  43.0
+2020-08-25 15:57:30   NaN  80.60  78.8  86.0      NaN  49.0  51.0  43.0
+2020-08-25 15:58:00   NaN  80.96  78.8  86.0      NaN  49.2  51.0  43.0
+2020-08-25 15:58:30   NaN  80.96  78.8  86.0      NaN  49.2  51.0  43.0
+2020-08-25 15:59:00   NaN  80.96  78.8  86.0      NaN  49.2  51.0  43.0
+2020-08-25 15:59:30   NaN  80.96  78.8  86.0      NaN  49.2  51.0  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 06c93c1] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v173        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   75db3ab..06c93c1  master -> master
+COUNT(*)
+31926
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 16:20:00   NaN  82.40  79.16  86.0      NaN  50.0  51.0  43.0
+2020-08-25 16:20:30   NaN  82.40  78.80  86.0      NaN  50.0  51.0  42.2
+2020-08-25 16:21:00   NaN  82.40  79.16  86.0      NaN  50.0  51.0  42.2
+2020-08-25 16:21:30   NaN  82.40  79.16  86.0      NaN  50.0  51.0  43.0
+2020-08-25 16:22:00   NaN  82.40  78.80  86.0      NaN  49.8  50.8  43.0
+2020-08-25 16:22:30   NaN  82.40  80.60  86.0      NaN  50.0  51.0  42.8
+2020-08-25 16:23:00   NaN  82.04  80.60  86.0      NaN  49.8  51.0  43.0
+2020-08-25 16:23:30   NaN  82.40  80.24  86.0      NaN  50.0  51.0  42.8
+2020-08-25 16:24:00   NaN  82.40  80.60  86.0      NaN  50.0  50.4  42.6
+2020-08-25 16:24:30   NaN  82.40  80.24  86.0      NaN  50.0  50.0  42.6
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master af09b48] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v174        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   06c93c1..af09b48  master -> master
+COUNT(*)
+32523
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 16:35:30   NaN  82.40  80.24  86.0      NaN  50.0  50.0  42.8
+2020-08-25 16:36:00   NaN  82.40  80.60  86.0      NaN  50.0  50.0  43.0
+2020-08-25 16:36:30   NaN  82.40  80.24  86.0      NaN  49.8  50.0  43.0
+2020-08-25 16:37:00   NaN  82.04  80.60  86.0      NaN  49.6  50.0  43.0
+2020-08-25 16:37:30   NaN  82.40  80.60  86.0      NaN  50.0  50.0  42.0
+2020-08-25 16:38:00   NaN  82.40  80.60  86.0      NaN  50.0  50.0  43.0
+2020-08-25 16:38:30   NaN  82.40  80.60  86.0      NaN  49.8  50.0  43.0
+2020-08-25 16:39:00   NaN  82.40  80.60  86.0      NaN  49.8  50.0  43.0
+2020-08-25 16:39:30   NaN  82.40  80.60  86.0      NaN  50.0  50.0  43.0
+2020-08-25 16:40:00   NaN    NaN    NaN   NaN      NaN   NaN   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 27715cc] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v175        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   af09b48..27715cc  master -> master
+COUNT(*)
+33320
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 16:55:30   NaN  82.4  80.60  86.00      NaN  49.0  50.0  42.6
+2020-08-25 16:56:00   NaN  82.4  80.60  86.36      NaN  49.0  50.0  42.6
+2020-08-25 16:56:30   NaN  82.4  80.60  86.00      NaN  49.0  50.0  42.6
+2020-08-25 16:57:00   NaN  82.4  80.60  86.00      NaN  49.4  49.6  42.4
+2020-08-25 16:57:30   NaN  82.4  80.60  86.00      NaN  49.2  49.2  42.6
+2020-08-25 16:58:00   NaN  82.4  80.60  86.00      NaN  49.0  49.6  42.2
+2020-08-25 16:58:30   NaN  82.4  80.24  86.00      NaN  49.2  49.0  42.2
+2020-08-25 16:59:00   NaN  82.4  80.60  86.00      NaN  49.0  49.6  42.4
+2020-08-25 16:59:30   NaN  82.4  79.88  86.00      NaN  49.0  50.2  42.0
+2020-08-25 17:00:00   NaN  82.4    NaN    NaN      NaN  49.0   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 7392bcc] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:     Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v176        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   27715cc..7392bcc  master -> master
+COUNT(*)
+34316
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 17:20:30   NaN  82.4  80.60  86.00      NaN  49.0  50.0  42.0
+2020-08-25 17:21:00   NaN  82.4  80.96  86.36      NaN  49.0  50.2  42.8
+2020-08-25 17:21:30   NaN  82.4  80.60  86.36      NaN  49.0  50.0  42.8
+2020-08-25 17:22:00   NaN  82.4  80.60  86.36      NaN  49.0  50.0  42.2
+2020-08-25 17:22:30   NaN  82.4  80.60  86.72      NaN  49.0  50.0  42.4
+2020-08-25 17:23:00   NaN  82.4  80.60  87.08      NaN  49.0  50.0  43.2
+2020-08-25 17:23:30   NaN  82.4  80.60  87.08      NaN  49.0  49.8  42.6
+2020-08-25 17:24:00   NaN  82.4  80.60  87.08      NaN  49.0  50.0  43.0
+2020-08-25 17:24:30   NaN  82.4  80.96  87.44      NaN  49.2  50.0  43.8
+2020-08-25 17:25:00   NaN  82.4    NaN    NaN      NaN  49.0   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 8a32f2f] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v177        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   7392bcc..8a32f2f  master -> master
+COUNT(*)
+34915
+                    tempF                     humidity                   
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03  dht04
+when_day_time                                                            
+2020-08-25 17:35:30   NaN  82.4  79.52  87.80      NaN  49.0  51.0  43.60
+2020-08-25 17:36:00   NaN  82.4  80.24  87.80      NaN  49.0  51.0  43.00
+2020-08-25 17:36:30   NaN  82.4  80.24  87.44      NaN  49.0  51.0  42.80
+2020-08-25 17:37:00   NaN  82.4  80.60  87.44      NaN  49.0  51.0  43.20
+2020-08-25 17:37:30   NaN  82.4  80.24  87.80      NaN  49.0  51.0  43.20
+2020-08-25 17:38:00   NaN  82.4  80.60  87.80      NaN  49.0  51.0  43.00
+2020-08-25 17:38:30   NaN  82.4  80.60  87.35      NaN  49.0  51.0  43.25
+2020-08-25 17:39:00   NaN  82.4  80.60  87.80      NaN  49.0  51.0  43.60
+2020-08-25 17:39:30   NaN  82.4  80.60  87.80      NaN  49.0  50.8  43.60
+2020-08-25 17:40:00   NaN   NaN  80.60  87.80      NaN   NaN  50.0  43.00
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master bceaad9] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v178        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   8a32f2f..bceaad9  master -> master
+COUNT(*)
+35711
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 17:55:00   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.0
+2020-08-25 17:55:30   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.6
+2020-08-25 17:56:00   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.8
+2020-08-25 17:56:30   NaN  82.40  80.60  87.8      NaN  49.0  49.0  44.0
+2020-08-25 17:57:00   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.2
+2020-08-25 17:57:30   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.2
+2020-08-25 17:58:00   NaN  82.76  80.60  87.8      NaN  49.2  49.0  43.6
+2020-08-25 17:58:30   NaN  82.40  80.24  87.8      NaN  49.0  49.0  43.0
+2020-08-25 17:59:00   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.0
+2020-08-25 17:59:30   NaN  82.40  80.60  87.8      NaN  49.0  49.0  43.2
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 2ca4fd8] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v179        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   bceaad9..2ca4fd8  master -> master
+COUNT(*)
+36707
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 18:20:30  82.4  82.40  80.60  87.8     44.8  49.0  50.6  43.0
+2020-08-25 18:21:00  82.4  82.76  80.60  87.8     45.0  49.2  50.6  43.0
+2020-08-25 18:21:30  82.4  82.76  80.60  87.8     45.0  49.2  50.0  43.0
+2020-08-25 18:22:00  82.4  82.40  80.60  87.8     44.8  49.0  49.4  43.0
+2020-08-25 18:22:30  82.4  82.76  80.60  87.8     45.0  49.2  50.0  43.0
+2020-08-25 18:23:00  82.4  82.40  80.60  87.8     45.0  49.0  49.4  43.0
+2020-08-25 18:23:30  82.4  82.40  80.96  87.8     45.0  49.0  49.2  43.0
+2020-08-25 18:24:00  82.4  82.40  80.60  87.8     45.0  49.0  49.0  43.0
+2020-08-25 18:24:30  82.4  82.40  80.60  87.8     45.0  49.0  49.0  43.0
+2020-08-25 18:25:00  82.4    NaN    NaN   NaN     45.0   NaN   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master abfbd09] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v180        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   2ca4fd8..abfbd09  master -> master
+COUNT(*)
+37303
+                     tempF                    humidity                  
+sensor_id            dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 18:35:00  82.40  83.84  80.6  87.8     46.0  49.8  50.4  43.0
+2020-08-25 18:35:30  82.40  83.84  80.6  87.8     46.0  49.8  50.0  43.0
+2020-08-25 18:36:00  82.40  83.48  80.6  87.8     45.8  49.6  50.0  43.6
+2020-08-25 18:36:30  82.40  83.84  80.6  87.8     45.8  49.8  50.0  43.2
+2020-08-25 18:37:00  82.40  84.20  80.6  87.8     45.6  50.0  50.0  43.0
+2020-08-25 18:37:30  82.04  83.48  80.6  87.8     44.8  49.6  50.0  43.0
+2020-08-25 18:38:00  82.40  83.48  80.6  87.8     45.0  49.6  50.0  43.0
+2020-08-25 18:38:30  82.40  83.84  80.6  87.8     45.0  49.8  50.0  43.0
+2020-08-25 18:39:00  82.40  83.84  80.6  87.8     45.0  49.8  50.0  43.2
+2020-08-25 18:39:30  82.40  83.48  80.6  87.8     45.0  49.6  50.0  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 454a978] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v181        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   abfbd09..454a978  master -> master
+COUNT(*)
+38100
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 18:55:30  80.6  84.20  80.60  87.8     45.6  50.0  49.8  43.0
+2020-08-25 18:56:00  80.6  84.20  80.60  87.8     46.6  50.0  50.0  43.0
+2020-08-25 18:56:30  80.6  84.20  79.88  87.8     47.8  50.0  50.0  43.0
+2020-08-25 18:57:00  80.6  83.84  78.80  87.8     48.0  49.8  50.8  43.0
+2020-08-25 18:57:30  80.6  84.20  78.80  87.8     48.0  50.0  51.2  43.0
+2020-08-25 18:58:00  80.6  83.84  79.16  87.8     47.0  49.8  51.2  43.0
+2020-08-25 18:58:30  80.6  84.20  78.80  87.8     47.0  50.0  51.0  43.0
+2020-08-25 18:59:00  80.6  84.20  79.16  87.8     46.2  50.0  51.0  43.0
+2020-08-25 18:59:30  80.6  84.20  79.52  87.8     46.0  50.0  51.0  43.0
+2020-08-25 19:00:00   NaN  84.20    NaN   NaN      NaN  50.0   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master a266246] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v182        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   454a978..a266246  master -> master
+COUNT(*)
+39095
+                     tempF                    humidity                  
+sensor_id            dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-25 19:20:00  82.40  84.2  80.96  87.8     45.0  50.0  49.2  43.0
+2020-08-25 19:20:30  82.40  84.2  80.60  87.8     45.6  50.0  49.0  43.0
+2020-08-25 19:21:00  82.40  84.2  80.96  87.8     45.4  50.0  49.2  43.0
+2020-08-25 19:21:30  82.40  84.2  80.60  87.8     45.0  50.0  49.0  43.0
+2020-08-25 19:22:00  82.40  84.2  80.96  87.8     45.4  50.0  49.2  43.0
+2020-08-25 19:22:30  82.40  84.2  80.60  87.8     46.0  50.0  49.0  43.0
+2020-08-25 19:23:00  80.96  84.2  80.60  87.8     45.2  50.0  49.0  43.0
+2020-08-25 19:23:30  80.60  84.2  80.60  87.8     45.0  50.0  49.0  43.0
+2020-08-25 19:24:00  80.60  84.2  80.60  87.8     45.0  50.0  49.4  43.0
+2020-08-25 19:24:30  80.60  84.2  80.24  87.8     45.4  50.0  49.0  43.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 5e0e783] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v183        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   a266246..5e0e783  master -> master
+COUNT(*)
+39695
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 19:35:30  82.4  84.20  80.6  87.8     46.0  50.0  50.0  43.6
+2020-08-25 19:36:00  82.4  83.84  80.6  87.8     46.0  49.8  50.0  44.0
+2020-08-25 19:36:30  82.4  84.20  80.6  87.8     46.0  50.0  49.8  44.0
+2020-08-25 19:37:00  82.4  84.20  80.6  87.8     46.0  50.0  50.0  44.0
+2020-08-25 19:37:30  82.4  84.20  80.6  87.8     46.0  50.0  50.0  44.0
+2020-08-25 19:38:00  82.4  84.20  80.6  87.8     46.0  50.0  50.0  44.0
+2020-08-25 19:38:30  82.4  84.20  80.6  87.8     46.0  50.0  50.0  44.0
+2020-08-25 19:39:00  82.4  84.20  80.6  87.8     46.0  50.0  49.6  43.6
+2020-08-25 19:39:30  82.4  84.20  80.6  87.8     46.0  50.0  49.0  44.0
+2020-08-25 19:40:00  82.4  84.20  80.6  87.8     46.0  50.0  49.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 4b4bb80] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v184        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   5e0e783..4b4bb80  master -> master
+COUNT(*)
+40491
+                    tempF                    humidity                  
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-25 19:55:30  80.6  84.2  78.80  87.8    48.60  50.0  51.0  44.0
+2020-08-25 19:56:00  80.6  84.2  78.80  87.8    48.00  50.0  51.6  43.8
+2020-08-25 19:56:30  80.6  84.2  78.80  87.8    47.40  50.0  51.0  44.0
+2020-08-25 19:57:00  80.6  84.2  78.80  87.8    47.00  50.0  51.0  44.0
+2020-08-25 19:57:30  80.6  84.2  79.16  87.8    47.00  50.0  51.0  44.0
+2020-08-25 19:58:00  80.6  84.2  78.80  87.8    46.75  50.0  51.0  44.0
+2020-08-25 19:58:30  80.6  84.2  78.80  87.8    46.00  50.0  51.0  44.0
+2020-08-25 19:59:00  80.6  84.2  79.88  87.8    46.00  50.0  51.0  44.0
+2020-08-25 19:59:30  80.6  84.2  80.60  87.8    46.00  50.0  51.0  44.0
+2020-08-25 20:00:00  80.6   NaN  80.60  87.8    46.00   NaN  51.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 68c644d] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v185        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   4b4bb80..68c644d  master -> master
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 114ced2] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v186        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   68c644d..114ced2  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 567fe6e] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v187        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   114ced2..567fe6e  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master cf75832] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v188        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   567fe6e..cf75832  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 1b8a510] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v189        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   cf75832..1b8a510  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 93ac7b4] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v190        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   1b8a510..93ac7b4  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master e5cae34] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v191        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   93ac7b4..e5cae34  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 0950b5a] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v192        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   e5cae34..0950b5a  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master 4b10c79] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v193        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   0950b5a..4b10c79  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master de7cd70] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v194        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   4b10c79..de7cd70  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master a3b1193] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v195        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   de7cd70..a3b1193  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+COUNT(*)
+41487
+                    tempF                    humidity                   
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                           
+2020-08-25 20:20:30  80.6  84.2  80.60  87.8     45.0  49.8  49.25  44.0
+2020-08-25 20:21:00  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:21:30  80.6  84.2  80.60  87.8     45.0  50.0  49.00  44.0
+2020-08-25 20:22:00  80.6  84.2  80.60  87.8     46.0  50.0  49.60  44.0
+2020-08-25 20:22:30  80.6  84.2  80.60  87.8     46.0  50.0  49.00  44.0
+2020-08-25 20:23:00  80.6  84.2  80.60  87.8     46.0  50.0  49.20  44.0
+2020-08-25 20:23:30  80.6  84.2  79.88  87.8     47.4  50.0  49.40  44.0
+2020-08-25 20:24:00  80.6  84.2  79.16  87.8     48.2  50.0  50.00  44.0
+2020-08-25 20:24:30  80.6  84.2  78.80  87.8     49.0  49.8  50.80  44.0
+2020-08-25 20:25:00  80.6   NaN  78.80  87.8     48.0   NaN  51.00  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-25.pkl
+[master ab95e4f] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v196        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   a3b1193..ab95e4f  master -> master
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+ERROR 1206 (HY000) at line 2: The total number of locks exceeds the lock table size
+/home/bitnami/temp_project/script_01_mqtt_to_txtfile.sh: line 13: 27514 Terminated              mosquitto_sub -h $broker -t $subscribe_topic >> $filename
+COUNT(*)
+0
+Traceback (most recent call last):
+  File "/home/bitnami/temp_project/pyscript_pickle_tsv.py", line 26, in <module>
+    df = pd.read_csv(filenameSrc, sep='\t', header=0).set_index('record_id')
+  File "/home/bitnami/.local/lib/python3.5/site-packages/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/bitnami/.local/lib/python3.5/site-packages/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/bitnami/.local/lib/python3.5/site-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/home/bitnami/.local/lib/python3.5/site-packages/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/bitnami/.local/lib/python3.5/site-packages/pandas/io/parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 545, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file
+On branch master
+Your branch is up to date with 'heroku/master'.
+
+Untracked files:
+	data/raw
+
+nothing added to commit but untracked files present
+COUNT(*)
+996
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 00:20:00  82.4  80.6  80.60  82.04     45.8  44.0  48.0  43.8
+2020-08-26 00:20:30  82.4  80.6  80.60  82.40     46.0  44.0  48.0  44.0
+2020-08-26 00:21:00  82.4  80.6  80.60  82.40     46.0  44.0  48.0  44.0
+2020-08-26 00:21:30  82.4  80.6  80.60  82.04     45.8  44.0  48.0  43.8
+2020-08-26 00:22:00  82.4  80.6  80.60  82.40     45.8  44.0  48.0  44.0
+2020-08-26 00:22:30  82.4  80.6  80.60  81.68     45.8  44.0  48.0  43.6
+2020-08-26 00:23:00  82.4  80.6  80.24  81.68     45.6  44.0  48.0  43.6
+2020-08-26 00:23:30  82.4  80.6  80.60  81.68     45.8  44.0  48.0  43.6
+2020-08-26 00:24:00  82.4  80.6  80.60  81.32     45.4  44.0  48.0  43.4
+2020-08-26 00:24:30  82.4  80.6  80.60  80.96     45.2  44.0  48.0  43.2
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 584e531] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 data/interim/2020-08-26.pkl
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v197        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   ab95e4f..584e531  master -> master
+COUNT(*)
+1595
+                     tempF                     humidity                  
+sensor_id            dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 00:35:30  82.40  80.60  80.60  80.6     45.0  44.6  48.0  43.4
+2020-08-26 00:36:00  82.40  80.60  80.60  80.6     45.0  45.0  48.0  43.2
+2020-08-26 00:36:30  82.40  80.24  80.60  80.6     45.0  44.8  48.0  43.0
+2020-08-26 00:37:00  82.40  80.60  80.24  80.6     45.0  45.0  48.0  43.0
+2020-08-26 00:37:30  82.40  80.60  80.24  80.6     45.0  45.0  48.0  43.0
+2020-08-26 00:38:00  82.40  80.24  80.60  80.6     45.0  44.8  48.0  43.0
+2020-08-26 00:38:30  82.40  80.60  80.60  80.6     45.0  44.8  48.0  43.0
+2020-08-26 00:39:00  82.04  80.60  80.60  80.6     44.8  45.0  48.0  43.0
+2020-08-26 00:39:30  82.40  80.60  80.24  80.6     45.0  45.0  48.0  43.0
+2020-08-26 00:40:00  82.40  80.60    NaN   NaN     45.0  45.0   NaN   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master d17cd16] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rewrite data/interim/2020-08-26.pkl (66%)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v198        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   584e531..d17cd16  master -> master
+COUNT(*)
+2392
+                     tempF                     humidity                  
+sensor_id            dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 00:55:00  82.40  79.16  80.24  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:55:30  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:56:00  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:56:30  82.04  78.80  80.60  80.6     44.8  45.0  48.0  44.0
+2020-08-26 00:57:00  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:57:30  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:58:00  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:58:30  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:59:00  82.40  78.80  80.60  80.6     45.0  45.0  48.0  44.0
+2020-08-26 00:59:30  82.40  78.80  80.24  80.6     45.0  45.0  48.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 3f9b4e6] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rewrite data/interim/2020-08-26.pkl (66%)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v199        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   d17cd16..3f9b4e6  master -> master
+COUNT(*)
+3388
+                    tempF                        humidity                  
+sensor_id           dht01  dht02  dht03  dht04      dht01 dht02 dht03 dht04
+when_day_time                                                              
+2020-08-26 01:20:30  80.6  78.80  79.16  79.16  45.000000  45.0  48.0  44.0
+2020-08-26 01:21:00  80.6  78.80  78.80  79.16  45.000000  45.0  48.0  44.0
+2020-08-26 01:21:30  80.6  78.80  78.80  78.80  45.000000  45.0  48.0  44.0
+2020-08-26 01:22:00  80.6  78.80  78.80  78.80  45.000000  45.0  48.0  44.0
+2020-08-26 01:22:30  80.6  78.80  78.80  78.80  45.000000  45.0  48.0  44.0
+2020-08-26 01:23:00  80.6  78.80  79.16  78.80  45.000000  45.0  48.0  44.0
+2020-08-26 01:23:30  80.6  78.80  78.80  78.80  45.000000  45.0  48.0  44.0
+2020-08-26 01:24:00  80.6  78.80  78.80  78.80  44.833333  45.0  48.0  44.0
+2020-08-26 01:24:30  80.6  78.44  78.80  78.80  44.500000  44.8  48.0  44.0
+2020-08-26 01:25:00  80.6    NaN    NaN  78.80  45.000000   NaN   NaN  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master ad416bd] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rewrite data/interim/2020-08-26.pkl (75%)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v200        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   3f9b4e6..ad416bd  master -> master
+COUNT(*)
+3984
+                     tempF                     humidity                  
+sensor_id            dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 01:35:00  79.88  78.80  78.80  78.8     45.0  45.0  49.0  44.0
+2020-08-26 01:35:30  79.88  78.80  78.80  78.8     45.0  45.0  49.0  44.0
+2020-08-26 01:36:00  78.80  78.80  78.80  78.8     45.2  45.0  49.0  44.0
+2020-08-26 01:36:30  78.80  78.80  78.80  78.8     46.0  45.0  49.0  44.0
+2020-08-26 01:37:00  78.80  78.80  78.80  78.8     46.0  45.2  49.0  44.6
+2020-08-26 01:37:30  78.80  78.80  78.80  78.8     46.0  45.0  49.0  44.6
+2020-08-26 01:38:00  78.80  78.08  78.44  78.8     47.6  44.6  48.8  44.6
+2020-08-26 01:38:30  78.80  77.90  78.80  78.8     48.4  44.5  49.4  44.0
+2020-08-26 01:39:00  78.80  77.72  78.80  78.8     48.6  44.6  50.0  44.2
+2020-08-26 01:39:30  78.80  77.36  78.80  78.8     48.0  44.4  50.0  44.2
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 02eb758] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v201        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   ad416bd..02eb758  master -> master
+COUNT(*)
+4780
+                    tempF                    humidity                  
+sensor_id           dht01  dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 01:55:00  80.6  77.36  78.8  78.8     44.0  45.0  48.0  44.8
+2020-08-26 01:55:30  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:56:00  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:56:30  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:57:00  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:57:30  80.6  77.00  78.8  78.8     44.0  45.0  47.8  45.0
+2020-08-26 01:58:00  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:58:30  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:59:00  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+2020-08-26 01:59:30  80.6  77.00  78.8  78.8     44.0  45.0  48.0  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master ba121e3] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v202        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   02eb758..ba121e3  master -> master
+COUNT(*)
+5776
+                    tempF                    humidity                  
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 02:20:00  80.6  77.0  78.80  77.0     45.0  45.0  48.0  44.0
+2020-08-26 02:20:30  80.6  77.0  78.80  77.0     44.4  45.0  48.0  44.0
+2020-08-26 02:21:00  80.6  77.0  78.44  77.0     44.0  45.0  47.8  44.0
+2020-08-26 02:21:30  80.6  77.0  78.80  77.0     44.0  45.0  47.8  44.0
+2020-08-26 02:22:00  80.6  77.0  78.80  77.0     44.0  45.0  48.0  44.0
+2020-08-26 02:22:30  80.6  77.0  78.44  77.0     44.0  45.0  47.8  44.0
+2020-08-26 02:23:00  80.6  77.0  78.08  77.0     44.0  45.0  47.6  44.0
+2020-08-26 02:23:30  80.6  77.0  78.80  77.0     44.0  45.0  47.8  44.0
+2020-08-26 02:24:00  80.6  77.0  78.80  77.0     44.0  45.0  48.0  44.0
+2020-08-26 02:24:30  80.6  77.0  78.80  77.0     44.0  45.0  48.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 34f984c] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rewrite data/interim/2020-08-26.pkl (63%)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.7M        
+remote: -----> Launching...        
+remote:        Released v203        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   ba121e3..34f984c  master -> master
+COUNT(*)
+6374
+                    tempF                     humidity                  
+sensor_id           dht01  dht02 dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 02:35:30  80.6  76.64  78.8  77.00     43.8  46.0  48.0  45.0
+2020-08-26 02:36:00  80.6  77.00  78.8  77.00     43.4  46.0  48.0  45.0
+2020-08-26 02:36:30  80.6  77.00  78.8  77.00     43.2  46.0  48.0  45.0
+2020-08-26 02:37:00  80.6  77.00  78.8  77.36     43.0  46.0  48.0  45.2
+2020-08-26 02:37:30  80.6  77.00  78.8  78.80     43.4  46.0  48.0  45.2
+2020-08-26 02:38:00  80.6  77.00  78.8  78.80     43.4  46.0  48.0  45.0
+2020-08-26 02:38:30  80.6  77.00  78.8  78.44     43.0  46.0  48.0  44.8
+2020-08-26 02:39:00  80.6  77.00  78.8  78.80     43.0  46.0  48.0  45.0
+2020-08-26 02:39:30  80.6  76.64  78.8  78.80     43.0  46.0  48.0  45.0
+2020-08-26 02:40:00   NaN  77.00  78.8    NaN      NaN  46.0  48.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 1b46937] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v204        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   34f984c..1b46937  master -> master
+COUNT(*)
+7171
+                    tempF                     humidity                   
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03  dht04
+when_day_time                                                            
+2020-08-26 02:55:30  80.6  75.20  78.80  77.0     44.4  46.0  47.8  44.80
+2020-08-26 02:56:00  80.6  75.20  78.80  77.0     44.0  46.6  47.0  44.20
+2020-08-26 02:56:30  80.6  75.56  78.80  77.0     44.0  47.0  47.4  44.25
+2020-08-26 02:57:00  80.6  75.56  78.80  77.0     44.0  47.0  47.2  44.40
+2020-08-26 02:57:30  80.6  75.20  78.80  77.0     44.0  47.0  47.0  44.60
+2020-08-26 02:58:00  80.6  75.20  78.80  77.0     44.0  47.0  47.8  44.75
+2020-08-26 02:58:30  80.6  75.56  78.44  77.0     44.0  47.6  47.6  45.00
+2020-08-26 02:59:00  80.6  75.20  78.80  77.0     43.8  48.0  47.4  45.80
+2020-08-26 02:59:30  80.6  75.20  78.80  77.0     44.0  48.0  47.8  45.40
+2020-08-26 03:00:00  80.6    NaN    NaN  77.0     44.0   NaN   NaN  45.00
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master e88cef9] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v205        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   1b46937..e88cef9  master -> master
+COUNT(*)
+8165
+                    tempF                     humidity                   
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02  dht03 dht04
+when_day_time                                                            
+2020-08-26 03:20:30  80.6  75.56  78.44  77.0     43.0  47.0  47.80  45.0
+2020-08-26 03:21:00  80.6  75.20  78.80  77.0     43.0  47.0  48.00  45.0
+2020-08-26 03:21:30  80.6  75.20  78.80  77.0     43.0  47.0  48.00  45.0
+2020-08-26 03:22:00  80.6  75.20  78.44  77.0     43.0  47.0  47.80  45.0
+2020-08-26 03:22:30  80.6  75.20  78.44  77.0     43.0  47.0  47.80  45.0
+2020-08-26 03:23:00  80.6  75.20  78.80  77.0     43.0  47.0  48.00  45.0
+2020-08-26 03:23:30  80.6  75.20  78.80  77.0     43.0  47.0  48.00  45.0
+2020-08-26 03:24:00  80.6  75.65  78.80  77.0     43.0  47.0  48.00  45.0
+2020-08-26 03:24:30  80.6  75.20  78.35  77.0     43.0  47.0  47.75  45.0
+2020-08-26 03:25:00   NaN  75.20  78.80   NaN      NaN  47.0  48.00   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 3fa3401] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v206        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   e88cef9..3fa3401  master -> master
+COUNT(*)
+8763
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 03:35:00  80.6  75.2  78.08  77.00     43.0  47.0  47.6  45.0
+2020-08-26 03:35:30  80.6  75.2  78.80  76.64     43.0  47.0  48.0  45.0
+2020-08-26 03:36:00  80.6  75.2  78.80  77.00     43.0  47.0  48.0  45.0
+2020-08-26 03:36:30  80.6  75.2  78.80  77.00     43.0  47.0  48.0  45.0
+2020-08-26 03:37:00  80.6  75.2  78.44  77.00     43.0  47.0  47.8  45.0
+2020-08-26 03:37:30  80.6  75.2  78.80  77.00     43.0  47.0  48.0  45.0
+2020-08-26 03:38:00  80.6  75.2  78.44  76.64     43.0  47.0  47.8  45.0
+2020-08-26 03:38:30  80.6  75.2  78.08  77.00     43.0  47.0  47.6  45.0
+2020-08-26 03:39:00  80.6  75.2  78.80  77.00     43.0  46.8  48.0  45.0
+2020-08-26 03:39:30  80.6  75.2  78.08  77.00     43.0  47.0  47.6  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 03e9011] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v207        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   3fa3401..03e9011  master -> master
+COUNT(*)
+9559
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 03:55:00  80.6  75.2  77.36  75.20     42.0  47.0  47.2  45.6
+2020-08-26 03:55:30  80.6  75.2  77.00  75.20     42.0  47.0  47.0  45.4
+2020-08-26 03:56:00  80.6  75.2  77.36  75.56     42.2  47.0  47.2  45.4
+2020-08-26 03:56:30  80.6  75.2  77.00  75.20     42.0  47.0  47.0  45.6
+2020-08-26 03:57:00  80.6  75.2  77.36  75.20     42.0  47.0  47.2  45.6
+2020-08-26 03:57:30  80.6  75.2  77.00  75.20     42.0  47.0  47.0  45.4
+2020-08-26 03:58:00  80.6  75.2  77.36  75.20     42.0  47.0  47.2  45.2
+2020-08-26 03:58:30  80.6  75.2  77.00  75.56     42.0  47.0  46.8  45.0
+2020-08-26 03:59:00  80.6  75.2  77.00  75.20     42.0  47.0  47.0  45.2
+2020-08-26 03:59:30  80.6  75.2  77.36  75.20     42.0  47.0  47.2  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 1c49f16] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v208        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   03e9011..1c49f16  master -> master
+COUNT(*)
+10555
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 04:20:00  80.6  75.2  77.00  75.20     42.0  48.8  46.2  47.0
+2020-08-26 04:20:30  80.6  75.2  77.36  75.20     42.0  49.0  46.4  46.6
+2020-08-26 04:21:00  80.6  75.2  77.00  75.20     42.0  49.0  46.8  46.0
+2020-08-26 04:21:30  80.6  75.2  77.00  76.28     42.0  49.0  47.0  46.0
+2020-08-26 04:22:00  80.6  75.2  77.00  77.00     42.0  49.0  47.0  46.0
+2020-08-26 04:22:30  80.6  75.2  77.36  77.00     42.0  49.0  47.2  46.0
+2020-08-26 04:23:00  80.6  75.2  78.80  77.00     42.0  49.0  48.0  45.0
+2020-08-26 04:23:30  80.6  75.2  78.44  77.00     42.0  49.0  47.8  45.0
+2020-08-26 04:24:00  80.6  75.2  78.44  77.00     42.0  49.0  47.8  45.0
+2020-08-26 04:24:30  80.6  75.2  78.80  77.00     42.0  49.0  48.0  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 84ed271] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v209        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   1c49f16..84ed271  master -> master
+COUNT(*)
+11151
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 04:35:00  80.6  75.20  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:35:30  80.6  75.20  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:36:00  80.6  73.76  77.36  75.2     42.0  48.0  47.2  46.0
+2020-08-26 04:36:30  80.6  74.12  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:37:00  80.6  73.76  77.36  75.2     42.0  48.0  47.2  46.0
+2020-08-26 04:37:30  80.6  73.76  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:38:00  80.6  73.76  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:38:30  80.6  73.76  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:39:00  80.6  73.40  77.00  75.2     42.0  48.0  47.0  46.0
+2020-08-26 04:39:30  80.6  73.76  77.36  75.2     42.0  48.0  46.8  46.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 6a2f4f3] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v210        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   84ed271..6a2f4f3  master -> master
+COUNT(*)
+11947
+                    tempF                     humidity                   
+sensor_id           dht01  dht02  dht03 dht04    dht01  dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 04:55:00  80.6  73.76  77.72  75.2     42.0  49.00  46.6  46.0
+2020-08-26 04:55:30  80.6  73.40  77.36  75.2     42.0  49.00  46.8  46.0
+2020-08-26 04:56:00  80.6  73.40  77.00  75.2     42.0  49.00  46.4  46.0
+2020-08-26 04:56:30  80.6  73.40  77.36  75.2     42.0  48.60  47.0  46.0
+2020-08-26 04:57:00  80.6  73.40  77.00  75.2     42.0  49.00  47.0  46.0
+2020-08-26 04:57:30  80.6  73.85  77.36  75.2     42.0  48.75  47.0  46.0
+2020-08-26 04:58:00  80.6  73.40  77.00  75.2     42.0  49.00  46.6  46.0
+2020-08-26 04:58:30  80.6  73.40  77.00  75.2     42.0  49.00  47.0  46.0
+2020-08-26 04:59:00  80.6  73.40  77.36  75.2     42.0  49.00  47.2  46.0
+2020-08-26 04:59:30  80.6  73.40  77.00  75.2     42.0  48.75  47.0  46.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 723fdb3] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v211        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   6a2f4f3..723fdb3  master -> master
+COUNT(*)
+12944
+                    tempF                      humidity                  
+sensor_id           dht01  dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 05:20:30  80.6  73.76  77.36  75.20     42.0  49.0  47.2  47.0
+2020-08-26 05:21:00  80.6  73.40  77.00  75.20     42.0  49.0  47.0  47.0
+2020-08-26 05:21:30  80.6  73.40  77.00  75.20     42.0  49.0  47.0  47.0
+2020-08-26 05:22:00  80.6  73.40  77.00  75.20     42.0  49.0  47.0  46.0
+2020-08-26 05:22:30  80.6  73.40  77.00  75.20     42.0  49.0  47.0  46.0
+2020-08-26 05:23:00  80.6  73.40  77.36  75.20     42.0  49.0  47.2  46.0
+2020-08-26 05:23:30  80.6  73.40  77.36  75.20     42.0  49.0  47.2  46.0
+2020-08-26 05:24:00  80.6  73.40  78.80  75.56     42.0  49.0  48.0  46.0
+2020-08-26 05:24:30  80.6  73.76  78.80  75.56     42.0  49.0  48.0  45.4
+2020-08-26 05:25:00   NaN    NaN  78.80    NaN      NaN   NaN  48.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 9fbd8c2] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v212        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   723fdb3..9fbd8c2  master -> master
+COUNT(*)
+13543
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 05:35:30  80.6  73.76  77.00  75.2     42.0  49.0  46.6  46.0
+2020-08-26 05:36:00  80.6  73.40  77.00  75.2     42.0  49.0  47.0  46.0
+2020-08-26 05:36:30  80.6  73.40  77.36  75.2     42.0  49.0  47.2  46.0
+2020-08-26 05:37:00  80.6  73.40  77.00  75.2     42.0  49.0  47.0  46.2
+2020-08-26 05:37:30  80.6  73.40  77.36  75.2     42.0  49.0  47.2  47.0
+2020-08-26 05:38:00  80.6  73.40  77.00  75.2     42.0  49.8  47.0  47.0
+2020-08-26 05:38:30  80.6  73.40  77.00  75.2     42.0  50.0  47.0  47.0
+2020-08-26 05:39:00  80.6  73.40  77.00  75.2     42.0  49.8  47.0  46.6
+2020-08-26 05:39:30  80.6  73.40  77.00  75.2     42.0  49.8  47.0  46.0
+2020-08-26 05:40:00   NaN    NaN    NaN  75.2      NaN   NaN   NaN  46.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 9fe9d7d] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v213        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   9fbd8c2..9fe9d7d  master -> master
+COUNT(*)
+14339
+                    tempF                      humidity                  
+sensor_id           dht01  dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 05:55:00  80.6  73.40  77.00  75.20     42.0  49.0  46.8  46.6
+2020-08-26 05:55:30  80.6  73.40  77.00  75.20     42.0  49.4  47.0  47.0
+2020-08-26 05:56:00  80.6  73.40  77.36  75.20     42.0  50.0  47.2  47.0
+2020-08-26 05:56:30  80.6  73.40  77.00  75.20     42.0  50.0  47.0  47.0
+2020-08-26 05:57:00  80.6  73.40  77.36  75.20     42.0  50.0  47.2  46.0
+2020-08-26 05:57:30  80.6  73.40  77.00  75.20     42.0  50.0  47.0  46.0
+2020-08-26 05:58:00  80.6  73.40  77.00  75.20     42.0  50.0  47.0  46.0
+2020-08-26 05:58:30  80.6  73.40  77.36  75.56     42.0  50.0  47.2  46.0
+2020-08-26 05:59:00  80.6  73.40  78.80  75.92     42.0  50.0  48.0  46.0
+2020-08-26 05:59:30  80.6  73.76  78.80  77.00     42.0  50.0  48.0  45.4
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master f25b613] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...
+remote:        Done: 169.7M        
+remote: -----> Launching...        
+remote:        Released v214        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   9fe9d7d..f25b613  master -> master
+COUNT(*)
+15335
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 06:20:00  80.6  73.40  78.80  77.0     42.0  50.0  48.0  45.0
+2020-08-26 06:20:30  80.6  73.76  78.80  77.0     42.0  50.0  48.0  45.0
+2020-08-26 06:21:00  80.6  73.40  78.80  77.0     42.0  50.0  48.0  45.0
+2020-08-26 06:21:30  80.6  73.76  78.44  77.0     42.0  50.0  47.8  44.2
+2020-08-26 06:22:00  80.6  73.40  78.80  77.0     42.0  50.0  48.0  44.2
+2020-08-26 06:22:30  80.6  73.40  78.80  77.0     42.0  50.0  48.0  44.0
+2020-08-26 06:23:00  80.6  73.76  78.80  77.0     42.0  50.0  48.0  44.0
+2020-08-26 06:23:30  80.6  74.12  78.80  77.0     42.0  50.0  48.0  44.0
+2020-08-26 06:24:00  80.6  74.48  78.80  77.0     42.2  50.0  48.0  44.0
+2020-08-26 06:24:30  80.6  74.84  78.44  77.0     42.2  50.0  47.8  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master d326a3d] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v215        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   f25b613..d326a3d  master -> master
+COUNT(*)
+15931
+                    tempF                      humidity                  
+sensor_id           dht01  dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 06:35:00  80.6  73.40  77.36  75.20     42.0  50.0  47.2  46.0
+2020-08-26 06:35:30  80.6  73.40  78.44  75.56     42.0  50.0  47.8  46.0
+2020-08-26 06:36:00  80.6  73.40  78.80  76.28     42.0  50.0  48.0  45.6
+2020-08-26 06:36:30  80.6  73.40  78.80  76.64     42.0  50.0  48.0  45.0
+2020-08-26 06:37:00  80.6  73.40  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:37:30  80.6  73.40  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:38:00  80.6  73.40  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:38:30  80.6  73.76  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:39:00  80.6  73.40  78.80  77.00     42.2  50.0  48.0  45.0
+2020-08-26 06:39:30  80.6  73.76  78.80  77.00     42.0  50.0  48.0  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master e240599] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v216        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   d326a3d..e240599  master -> master
+COUNT(*)
+16727
+                    tempF                      humidity                  
+sensor_id           dht01  dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 06:55:00  80.6  73.40  77.72  75.20     42.0  50.0  47.4  46.0
+2020-08-26 06:55:30  80.6  73.76  78.44  75.56     42.0  50.0  47.8  45.8
+2020-08-26 06:56:00  80.6  73.40  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:56:30  80.6  73.40  78.44  77.00     42.0  50.0  47.8  45.0
+2020-08-26 06:57:00  80.6  73.40  78.80  77.00     42.0  50.0  48.0  45.0
+2020-08-26 06:57:30  80.6  73.76  78.80  77.00     42.2  50.0  48.0  45.0
+2020-08-26 06:58:00  80.6  73.40  78.44  77.00     42.0  50.0  47.8  45.0
+2020-08-26 06:58:30  80.6  74.12  78.44  77.00     42.6  50.0  47.8  45.0
+2020-08-26 06:59:00  80.6  73.76  78.80  77.00     42.2  50.0  48.0  45.0
+2020-08-26 06:59:30  80.6  73.40  78.44  77.00     42.2  50.0  47.8  44.8
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master a45659d] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v217        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   e240599..a45659d  master -> master
+COUNT(*)
+17723
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 07:20:00  80.6  73.76  78.80  77.0     42.6  50.2  48.0  45.0
+2020-08-26 07:20:30  80.6  74.12  78.80  77.0     43.0  50.2  48.0  45.0
+2020-08-26 07:21:00  80.6  73.76  78.80  77.0     43.0  50.0  48.0  45.0
+2020-08-26 07:21:30  80.6  74.12  78.80  77.0     43.0  50.0  48.0  44.8
+2020-08-26 07:22:00  80.6  74.84  78.80  77.0     43.0  50.0  48.0  44.2
+2020-08-26 07:22:30  80.6  74.84  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:23:00  80.6  75.20  78.44  77.0     43.0  50.0  47.8  44.0
+2020-08-26 07:23:30  80.6  75.20  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:24:00  80.6  75.20  78.80  77.0     42.8  50.0  48.0  44.0
+2020-08-26 07:24:30  80.6  75.20  78.80  77.0     42.6  50.0  48.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 0af043f] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v218        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   a45659d..0af043f  master -> master
+COUNT(*)
+18323
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 07:35:30  80.6  75.20  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:36:00  80.6  75.20  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:36:30  80.6  75.20  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:37:00  80.6  75.20  78.80  77.0     43.0  50.0  47.6  44.0
+2020-08-26 07:37:30  80.6  75.20  78.80  77.0     43.0  50.0  47.6  44.0
+2020-08-26 07:38:00  80.6  75.20  78.80  77.0     43.0  50.0  47.8  44.0
+2020-08-26 07:38:30  80.6  74.12  78.44  77.0     43.0  50.0  47.6  44.0
+2020-08-26 07:39:00  80.6  73.40  78.80  77.0     43.0  50.0  47.8  44.0
+2020-08-26 07:39:30  80.6  73.40  78.80  77.0     43.0  50.0  48.0  44.0
+2020-08-26 07:40:00  80.6  73.40    NaN  77.0     43.0  50.0   NaN  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 6b108b3] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v219        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   0af043f..6b108b3  master -> master
+COUNT(*)
+19119
+                    tempF                    humidity                  
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 07:55:00  80.6  75.2  78.80  77.0     42.2  50.8  48.0  44.0
+2020-08-26 07:55:30  80.6  75.2  78.80  77.0     42.0  50.0  48.0  44.0
+2020-08-26 07:56:00  80.6  75.2  78.44  77.0     42.0  50.2  47.8  44.0
+2020-08-26 07:56:30  80.6  75.2  78.80  77.0     42.0  50.0  48.0  44.0
+2020-08-26 07:57:00  80.6  75.2  78.80  77.0     42.0  50.4  48.0  44.0
+2020-08-26 07:57:30  80.6  75.2  78.44  77.0     42.0  50.4  47.8  44.0
+2020-08-26 07:58:00  80.6  75.2  78.80  77.0     42.2  50.6  48.0  44.0
+2020-08-26 07:58:30  80.6  75.2  78.80  77.0     42.0  50.6  48.0  44.0
+2020-08-26 07:59:00  80.6  75.2  78.80  77.0     42.0  50.2  48.0  44.0
+2020-08-26 07:59:30  80.6  75.2  78.80  77.0     42.2  50.2  48.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master c9cbb87] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v220        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   6b108b3..c9cbb87  master -> master
+COUNT(*)
+20115
+                    tempF                     humidity                  
+sensor_id           dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 08:20:30  80.6  75.20  78.80  77.0     42.0  50.0  47.0  45.0
+2020-08-26 08:21:00  80.6  75.20  78.80  77.0     42.0  50.0  47.0  44.8
+2020-08-26 08:21:30  80.6  75.20  78.80  77.0     42.0  50.0  47.0  45.0
+2020-08-26 08:22:00  80.6  75.20  78.80  77.0     42.0  50.0  47.0  45.0
+2020-08-26 08:22:30  80.6  74.84  78.44  77.0     42.0  50.0  46.8  44.6
+2020-08-26 08:23:00  80.6  75.20  78.80  77.0     42.0  50.0  47.0  45.0
+2020-08-26 08:23:30  80.6  75.20  78.80  77.0     42.0  50.0  47.0  44.6
+2020-08-26 08:24:00  80.6  75.20  78.44  77.0     42.0  50.0  46.8  44.5
+2020-08-26 08:24:30  80.6  75.20  78.80  77.0     42.0  50.0  47.0  44.4
+2020-08-26 08:25:00  80.6    NaN    NaN  77.0     42.0   NaN   NaN  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master b91de1b] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v221        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   c9cbb87..b91de1b  master -> master
+COUNT(*)
+20711
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 08:35:00  80.6  75.2  78.80  77.00     42.0  50.0  47.2  44.2
+2020-08-26 08:35:30  80.6  75.2  78.80  77.00     42.0  50.0  47.4  44.2
+2020-08-26 08:36:00  80.6  75.2  78.80  77.00     42.0  50.0  47.4  44.0
+2020-08-26 08:36:30  80.6  75.2  78.80  77.00     42.0  50.0  47.4  44.0
+2020-08-26 08:37:00  80.6  75.2  78.44  77.36     42.0  50.0  46.8  44.6
+2020-08-26 08:37:30  80.6  75.2  78.80  77.00     42.0  50.0  47.0  44.2
+2020-08-26 08:38:00  80.6  75.2  78.80  77.36     42.0  50.0  47.2  44.2
+2020-08-26 08:38:30  80.6  75.2  78.80  77.36     42.0  50.0  47.0  44.4
+2020-08-26 08:39:00  80.6  75.2  78.44  77.72     42.0  50.0  46.8  44.4
+2020-08-26 08:39:30  80.6  75.2  78.80  77.72     42.0  50.2  47.4  44.4
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 81c8a3b] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v222        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   b91de1b..81c8a3b  master -> master
+COUNT(*)
+21507
+                    tempF                    humidity                  
+sensor_id           dht01 dht02 dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 08:55:00  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+2020-08-26 08:55:30  80.6  75.2  78.8  77.00     41.8  50.0  48.0  45.0
+2020-08-26 08:56:00  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+2020-08-26 08:56:30  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+2020-08-26 08:57:00  80.6  75.2  78.8  77.36     42.0  50.0  48.0  45.2
+2020-08-26 08:57:30  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+2020-08-26 08:58:00  80.6  75.2  78.8  77.36     42.0  50.0  48.0  45.2
+2020-08-26 08:58:30  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+2020-08-26 08:59:00  80.6  75.2  78.8  77.00     42.0  50.0  48.0  44.6
+2020-08-26 08:59:30  80.6  75.2  78.8  77.00     42.0  50.0  48.0  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 0502bcf] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v223        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   81c8a3b..0502bcf  master -> master
+COUNT(*)
+22503
+                     tempF                     humidity                  
+sensor_id            dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 09:20:00  80.60  75.2  78.44  77.00     41.0  50.8  47.8  45.6
+2020-08-26 09:20:30  80.60  75.2  78.80  77.00     41.0  50.0  48.0  45.0
+2020-08-26 09:21:00  80.96  75.2  78.80  77.00     41.2  50.6  48.0  45.0
+2020-08-26 09:21:30  80.96  75.2  78.80  77.36     41.2  51.0  48.0  45.2
+2020-08-26 09:22:00  80.60  75.2  78.44  77.00     41.0  50.8  47.8  45.0
+2020-08-26 09:22:30  80.60  75.2  78.80  78.08     41.0  51.0  48.0  45.6
+2020-08-26 09:23:00  80.96  75.2  78.80  78.80     41.2  50.8  48.0  46.0
+2020-08-26 09:23:30  80.60  75.2  78.80  78.80     41.0  51.0  48.0  46.0
+2020-08-26 09:24:00  80.60  75.2  78.44  78.44     41.0  50.4  47.8  45.8
+2020-08-26 09:24:30  80.60  75.2  78.44  78.80     41.0  50.4  47.8  46.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 9264f57] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v224        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   0502bcf..9264f57  master -> master
+COUNT(*)
+23101
+                     tempF                    humidity                  
+sensor_id            dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 09:35:30  81.32  75.2  78.80  78.8     41.4  50.0  48.0  45.0
+2020-08-26 09:36:00  81.32  75.2  78.80  78.8     41.4  50.0  48.0  45.0
+2020-08-26 09:36:30  80.60  75.2  78.44  78.8     40.6  50.0  47.8  45.0
+2020-08-26 09:37:00  80.60  75.2  78.80  78.8     40.8  50.0  48.0  45.0
+2020-08-26 09:37:30  80.60  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:38:00  80.60  75.2  78.80  78.8     41.4  50.0  48.0  45.0
+2020-08-26 09:38:30  80.60  75.2  78.80  78.8     43.6  50.0  48.0  45.0
+2020-08-26 09:39:00  80.60  75.2  78.80  78.8     44.0  50.0  48.4  45.0
+2020-08-26 09:39:30  80.60  75.2  78.44  78.8     44.0  50.0  48.8  45.0
+2020-08-26 09:40:00    NaN  75.2  78.80   NaN      NaN  50.0  49.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 1bbacc7] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v225        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   9264f57..1bbacc7  master -> master
+COUNT(*)
+23899
+                    tempF                    humidity                  
+sensor_id           dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 09:55:30  80.6  75.2  78.80  78.8     41.0  50.0  48.4  45.0
+2020-08-26 09:56:00  80.6  75.2  78.80  78.8     41.0  50.0  48.2  45.0
+2020-08-26 09:56:30  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:57:00  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:57:30  80.6  75.2  78.44  78.8     41.0  50.0  48.6  45.0
+2020-08-26 09:58:00  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:58:30  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:59:00  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 09:59:30  80.6  75.2  78.80  78.8     41.0  50.0  48.0  45.0
+2020-08-26 10:00:00  80.6   NaN    NaN  78.8     41.0   NaN   NaN  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master f26583c] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v226        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   1bbacc7..f26583c  master -> master
+COUNT(*)
+24895
+                     tempF                    humidity                  
+sensor_id            dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 10:20:30  80.60  75.2  78.80  78.8     41.0  50.0  49.0  45.0
+2020-08-26 10:21:00  80.60  75.2  78.44  78.8     41.0  50.0  48.6  45.0
+2020-08-26 10:21:30  80.60  75.2  78.80  78.8     41.0  50.0  48.8  45.0
+2020-08-26 10:22:00  80.60  75.2  78.80  78.8     41.0  50.0  48.6  45.0
+2020-08-26 10:22:30  80.96  75.2  78.80  78.8     41.2  50.0  48.8  45.0
+2020-08-26 10:23:00  80.60  75.2  78.80  78.8     41.0  50.0  48.8  45.0
+2020-08-26 10:23:30  80.60  75.2  78.80  78.8     41.0  50.0  48.8  45.0
+2020-08-26 10:24:00  80.60  75.2  78.80  78.8     41.0  50.0  48.6  45.0
+2020-08-26 10:24:30  80.60  75.2  78.44  78.8     41.0  50.0  48.2  45.0
+2020-08-26 10:25:00  80.60  75.2    NaN  78.8     41.0  50.0   NaN  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 01570b3] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.7M        
+remote: -----> Launching...        
+remote:        Released v227        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   f26583c..01570b3  master -> master
+COUNT(*)
+25490
+                     tempF                    humidity                  
+sensor_id            dht01 dht02 dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 10:35:00  80.96  75.2  78.8  79.16     41.2  51.0  48.2  46.0
+2020-08-26 10:35:30  80.60  75.2  78.8  79.16     41.4  51.0  48.0  45.6
+2020-08-26 10:36:00  80.60  75.2  78.8  79.52     41.4  51.0  48.0  45.0
+2020-08-26 10:36:30  80.60  75.2  78.8  80.24     41.4  51.0  48.4  45.0
+2020-08-26 10:37:00  80.60  75.2  78.8  79.88     41.2  51.0  48.6  45.0
+2020-08-26 10:37:30  80.96  75.2  78.8  80.24     41.6  51.0  48.8  45.0
+2020-08-26 10:38:00  80.60  75.2  78.8  80.60     41.2  51.0  48.8  45.0
+2020-08-26 10:38:30  80.60  75.2  78.8  80.60     41.2  51.0  48.6  45.0
+2020-08-26 10:39:00  80.96  75.2  78.8  80.60     41.2  51.0  48.8  45.0
+2020-08-26 10:39:30  80.60  75.2  78.8  80.60     41.6  51.0  48.6  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 5456480] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v228        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   01570b3..5456480  master -> master
+COUNT(*)
+26286
+                     tempF                     humidity                  
+sensor_id            dht01  dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                            
+2020-08-26 10:55:00  82.40  75.56  78.80  80.6     42.0  51.0  48.0  45.0
+2020-08-26 10:55:30  82.40  75.20  78.80  80.6     42.0  51.0  48.0  45.0
+2020-08-26 10:56:00  82.40  76.28  78.80  80.6     42.0  51.0  48.0  45.0
+2020-08-26 10:56:30  82.40  76.28  78.80  80.6     42.0  51.0  48.2  45.0
+2020-08-26 10:57:00  82.40  75.92  78.80  80.6     42.0  51.0  48.0  45.0
+2020-08-26 10:57:30  82.40  75.92  78.80  80.6     42.0  51.0  48.4  45.0
+2020-08-26 10:58:00  82.40  76.28  78.80  80.6     42.0  51.0  48.4  45.0
+2020-08-26 10:58:30  82.40  75.92  78.80  80.6     42.0  51.0  48.6  45.0
+2020-08-26 10:59:00  82.04  77.00  78.80  80.6     41.8  51.0  48.6  45.0
+2020-08-26 10:59:30  82.40  76.28  78.44  80.6     42.0  51.0  48.6  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master fcfd7db] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.4M        
+remote: -----> Launching...        
+remote:        Released v229        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   5456480..fcfd7db  master -> master
+COUNT(*)
+27282
+                     tempF                    humidity                  
+sensor_id            dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 11:20:00  79.16  77.0  77.00  80.6     45.6  51.0  48.4  44.0
+2020-08-26 11:20:30  79.16  77.0  77.36  80.6     45.0  51.0  49.2  44.6
+2020-08-26 11:21:00  80.60  77.0  77.00  80.6     44.2  51.0  49.0  44.0
+2020-08-26 11:21:30  80.60  77.0  77.00  80.6     43.8  51.0  49.0  44.4
+2020-08-26 11:22:00  80.60  77.0  77.00  80.6     43.0  50.8  49.0  44.0
+2020-08-26 11:22:30  80.60  77.0  77.00  80.6     43.0  51.0  49.0  44.0
+2020-08-26 11:23:00  80.60  77.0  77.00  80.6     42.8  51.0  49.0  44.0
+2020-08-26 11:23:30  80.60  77.0  77.00  80.6     42.2  51.0  49.0  44.2
+2020-08-26 11:24:00  80.60  77.0  77.00  80.6     42.0  51.0  49.0  44.0
+2020-08-26 11:24:30  80.60  77.0  77.00  80.6     42.0  50.8  49.0  44.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 3eba3cd] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v230        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   fcfd7db..3eba3cd  master -> master
+COUNT(*)
+27879
+                     tempF                    humidity                  
+sensor_id            dht01 dht02  dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 11:35:30  82.40  77.0  78.80  80.6     41.0  50.0  48.8  44.0
+2020-08-26 11:36:00  82.40  77.0  78.80  80.6     42.0  50.0  49.0  44.0
+2020-08-26 11:36:30  82.04  77.0  78.80  80.6     41.8  50.4  48.8  44.0
+2020-08-26 11:37:00  80.96  77.0  78.80  80.6     42.0  50.0  49.0  44.0
+2020-08-26 11:37:30  80.60  77.0  78.80  80.6     42.0  50.0  49.0  44.0
+2020-08-26 11:38:00  80.96  77.0  78.80  80.6     42.2  50.0  49.0  44.0
+2020-08-26 11:38:30  80.96  77.0  79.16  80.6     42.2  50.0  48.8  44.0
+2020-08-26 11:39:00  80.60  77.0  78.80  80.6     42.0  50.0  49.0  44.0
+2020-08-26 11:39:30  80.60  77.0  78.80  80.6     42.0  50.0  49.0  44.0
+2020-08-26 11:40:00    NaN   NaN  78.80   NaN      NaN   NaN  49.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master 9a27d8a] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.5M        
+remote: -----> Launching...        
+remote:        Released v231        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   3eba3cd..9a27d8a  master -> master
+COUNT(*)
+28675
+                     tempF                   humidity                  
+sensor_id            dht01 dht02 dht03 dht04    dht01 dht02 dht03 dht04
+when_day_time                                                          
+2020-08-26 11:55:30  80.96  77.0  78.8  80.6     42.2  50.0  49.0  44.0
+2020-08-26 11:56:00  81.50  77.0  78.8  80.6     42.5  50.0  49.0  44.0
+2020-08-26 11:56:30  81.68  77.0  78.8  80.6     42.6  50.0  49.0  44.0
+2020-08-26 11:57:00  80.60  77.0  78.8  80.6     42.2  50.0  49.0  44.0
+2020-08-26 11:57:30  81.32  77.0  78.8  80.6     42.4  50.0  49.0  44.0
+2020-08-26 11:58:00  82.04  77.0  78.8  80.6     42.8  50.0  49.0  44.0
+2020-08-26 11:58:30  81.68  77.0  78.8  80.6     42.6  50.0  49.0  44.0
+2020-08-26 11:59:00  82.40  77.0  78.8  80.6     43.0  50.0  49.0  44.0
+2020-08-26 11:59:30  81.32  77.0  78.8  80.6     42.4  50.0  49.0  44.0
+2020-08-26 12:00:00  80.60   NaN  78.8   NaN     42.0   NaN  49.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master ee07e28] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v232        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   9a27d8a..ee07e28  master -> master
+COUNT(*)
+29672
+                    tempF                     humidity                  
+sensor_id           dht01 dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                           
+2020-08-26 12:20:30   NaN  77.0  78.80  80.96      NaN  50.0  50.0  44.2
+2020-08-26 12:21:00   NaN  77.0  78.80  80.60      NaN  50.0  50.0  44.0
+2020-08-26 12:21:30   NaN  77.0  78.80  80.96      NaN  50.0  50.0  44.2
+2020-08-26 12:22:00   NaN  77.0  78.44  80.60      NaN  50.0  49.8  44.0
+2020-08-26 12:22:30   NaN  77.0  78.44  80.60      NaN  50.0  50.0  44.0
+2020-08-26 12:23:00   NaN  77.0  78.80  80.60      NaN  50.0  51.0  44.0
+2020-08-26 12:23:30   NaN  77.0  78.44  80.96      NaN  50.0  50.0  44.2
+2020-08-26 12:24:00   NaN  77.0  78.44  80.96      NaN  50.0  49.8  44.2
+2020-08-26 12:24:30   NaN  77.0  78.80  80.60      NaN  50.0  50.0  44.0
+2020-08-26 12:25:00   NaN  77.0  78.80    NaN      NaN  50.0  50.0   NaN
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master c7bf1d1] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v233        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   ee07e28..c7bf1d1  master -> master
+COUNT(*)
+30269
+                    tempF                      humidity                   
+sensor_id           dht01  dht02  dht03  dht04    dht01 dht02 dht03  dht04
+when_day_time                                                             
+2020-08-26 12:35:30   NaN  77.00  78.80  81.68      NaN  50.0  49.0  44.60
+2020-08-26 12:36:00   NaN  77.00  78.80  82.04      NaN  50.0  49.0  44.80
+2020-08-26 12:36:30   NaN  77.36  78.80  81.68      NaN  50.2  49.4  44.60
+2020-08-26 12:37:00   NaN  77.00  78.80  82.40      NaN  50.0  49.4  45.00
+2020-08-26 12:37:30   NaN  77.00  79.16  81.95      NaN  49.6  50.0  44.75
+2020-08-26 12:38:00   NaN  77.36  78.80  82.04      NaN  50.0  50.0  44.80
+2020-08-26 12:38:30   NaN  77.36  78.80  82.40      NaN  50.0  49.2  45.00
+2020-08-26 12:39:00   NaN  77.36  78.80  82.04      NaN  49.8  49.2  44.80
+2020-08-26 12:39:30   NaN  77.72  78.80  82.04      NaN  49.8  49.4  44.80
+2020-08-26 12:40:00   NaN    NaN    NaN  82.40      NaN   NaN   NaN  45.00
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master e4a1578] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.7M        
+remote: -----> Launching...        
+remote:        Released v234        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   c7bf1d1..e4a1578  master -> master
+COUNT(*)
+31065
+                     tempF                      humidity                  
+sensor_id            dht01  dht02  dht03  dht04    dht01 dht02 dht03 dht04
+when_day_time                                                             
+2020-08-26 12:55:00  82.76  78.80  78.80  82.04     41.2  50.2  50.0  44.8
+2020-08-26 12:55:30  83.48  78.80  78.80  82.40     41.6  50.0  49.8  45.0
+2020-08-26 12:56:00  83.84  78.44  78.80  82.40     41.8  50.0  50.0  45.0
+2020-08-26 12:56:30  84.20  78.80  79.16  82.40     42.0  50.0  50.0  45.0
+2020-08-26 12:57:00  83.12  78.80  78.80  82.40     41.4  50.0  50.0  45.0
+2020-08-26 12:57:30  84.20  78.80  78.80  82.40     42.0  50.0  50.0  45.0
+2020-08-26 12:58:00  83.48  78.80  78.80  82.40     41.6  50.0  50.0  44.8
+2020-08-26 12:58:30  82.76  78.80  78.80  82.40     41.2  50.0  50.0  44.0
+2020-08-26 12:59:00  82.40  78.80  78.80  82.40     41.0  50.0  50.0  44.0
+2020-08-26 12:59:30  82.40  78.80  78.80  82.40     41.0  50.0  50.0  45.0
+Exported: /home/bitnami/temp_project/data/interim/2020-08-26.pkl
+[master c4b5cc5] autoCommit_data
+ Committer: Debian <bitnami@ip-172-31-25-31.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Python app detected        
+remote:  !     Python has released a security update! Please consider upgrading to python-3.7.9        
+remote:        Learn More: https://devcenter.heroku.com/articles/python-runtimes        
+remote: -----> No change in requirements detected, installing from cache        
+remote: -----> Installing pip 20.1.1, setuptools 47.1.1 and wheel 0.34.2        
+remote: -----> Installing SQLite3        
+remote: -----> Installing requirements with pip        
+remote: -----> Discovering process types        
+remote:        Procfile declares types -> web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 169.6M        
+remote: -----> Launching...        
+remote:        Released v235        
+remote:        https://barb-iot-temp.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/barb-iot-temp.git
+   e4a1578..c4b5cc5  master -> master
