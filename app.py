@@ -28,8 +28,8 @@ for filename in pklFiles:
 # STEP 3- FILTER DATA HERE
 
 df = temp_data
-#df = df.loc[(df.index.month==8) & (df.index.day > 22)]
-df = df.loc[df(df.index.month==9)]
+df = df.loc[(df.index.month==9) & (df.index.day > 0)]
+#df = df.loc[df(df.index.month==9)]
 
 # --------------------------------
 # DEFINE COLORS & LABELS FOR GRAPHING SENSOR DATA
